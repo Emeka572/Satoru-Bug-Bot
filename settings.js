@@ -1,4 +1,4 @@
-//Satoru-Bug-Bot
+#//Satoru-Bug-Bot
 
 //[Code d’appariement](https://replit.com/@aubinbot/Parky-pair-code)
 //[GitHub](https://github.com/SatoruTech/Satoru-Bug-Bot)
@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067712688"
-global.ownername = "Satoru"
+global.ownernomer = "24104045290"
+global.ownername = "Lucius"
 global.ytname = "YT: SatoruTech"
 global.socialm = "GitHub: SatoruTech"
 global.location = "Congo-Brazzaville, Brazzaville, null"
 
-global.ownernumber = '242067712688'  //creator number
-global.ownername = 'SatoruTech' //owner name
+global.ownernumber = '24104045290'  //creator number
+global.ownername = 'Lucius' //owner name
 global.botname = 'Satoru-Bug-Bot' //name of the bot
 
 //sticker details
